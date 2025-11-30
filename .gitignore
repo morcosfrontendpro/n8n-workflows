@@ -106,5 +106,6 @@ package-lock.json
 
 # Import logs
 import_log.json
+
 # Archive folder for old files
 archive/
